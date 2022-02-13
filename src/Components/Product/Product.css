@@ -1,0 +1,37 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightcoral;
+}
+.btn-regular{
+    width: 150px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    background-color:coral;
+    margin: 5px;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+}
+
+
+/* Practise number ----000001 */
+/* .product{
+    display: flex;
+    border-bottom: 1px solid  seagreen;
+    margin-right: 5px;
+}
+.product img{
+    margin: 5px;
+}
+.btn-regular{
+    border: 2px solid yellowgreen;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 150px;
+    color:darkred;
+    background-color: cyan;
+    margin-bottom: 5px;
+} */

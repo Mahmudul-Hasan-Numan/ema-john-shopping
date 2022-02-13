@@ -1,0 +1,12 @@
+.place-order{
+    text-align: center;
+}
+.place-order-confirmation{
+    color:green;
+    font-size: 150px;
+    font-weight:900;
+    margin: 0%;
+}
+.place-order img{
+    width: 150px;
+}

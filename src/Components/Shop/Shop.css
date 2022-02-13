@@ -1,0 +1,29 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.products-container{
+    border-right: 2px solid khaki;
+    margin-right: 5px;
+    margin-left: 10%;
+}
+.search-container{
+    background-color: rgba(0, 0, 0, 0.671);
+    text-align: center;
+    line-height: 30px;
+}
+.search-container input{
+    width: 75%;
+}
+
+/* Practise number -------00001 */
+/* 
+.shop-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products-container{
+    border-right: 1px solid lightcoral;
+    margin-right: 10px;
+    margin-left: 10%;
+} */
